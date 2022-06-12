@@ -1,0 +1,78 @@
+body{
+	background-color: #53D4FF;
+}
+
+.titulo{
+	background-color: #0CB7F2;
+	padding: 5px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+}
+
+header{
+	padding-left: 20px;
+	color:  #FFFFFF;
+	font-size: 30px;
+}
+
+#imagem1{
+	margin-bottom: 25px;
+}
+#imagem2{
+	height: 20px;
+	width: 20px;
+	margin-left: 270px;
+}
+
+.campo{
+
+	margin-left: 15px;
+	border-radius: 10px;
+	height: 300px;
+	width: 300px;
+	resize: none;
+	background-color: #DEF7FF;
+	border-color: #0CB7F2;
+
+}
+.campo::placeholder{
+	font-size: 17px;
+}
+
+#revela{
+	border-radius: 10px;
+	height: 300px;
+	width: 300px;
+	resize: none;
+	background-color: #DEF7FF;
+	border-color: #0CB7F2;
+	margin-left: 10px;
+}
+#revela::placeholder{
+	text-align: center;
+	font-size: 17px;
+}
+.cod{
+	margin-left: 335px;
+	padding: 5px;
+	border-radius: 5px;
+	background-color: #DEF7FF;
+
+}
+.decod{
+	padding: 5px;
+	border-radius: 5px;
+	background-color: #DEF7FF;
+	margin-left: 20px;
+}
+
+.copy{
+	padding: 5px;
+	border-radius: 5px;
+	background-color: #DEF7FF;
+	margin-left: 200px;
+
+}
+#rodape{
+	text-align: right;
+}
